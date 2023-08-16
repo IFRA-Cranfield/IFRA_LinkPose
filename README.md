@@ -181,7 +181,7 @@ __EXAMPLE: box.urdf__
   Profile: https://www.cranfield.ac.uk/people/mikel-bueno-viso-32884399
   <br />
   <br />
-  Dr. Seemal Asif - Lecturer in Artificial Intelligence and Robotics at Cranfield University
+  Dr. Seemal Asif - Senior Lecturer in Artificial Intelligence and Robotics at Cranfield University
   <br />
   E-mail: s.asif@cranfield.ac.uk
   <br />
